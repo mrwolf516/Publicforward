@@ -8,7 +8,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/Greymattersbot/public-forward-bot",
+  "repository": "https://github.com/mrwolf516/Publicforward",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
@@ -56,7 +56,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "eco"
+      "size": "free"
     }
   }
 }
